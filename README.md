@@ -1,7 +1,8 @@
 # Task Tracker
 
 <img width="301" src="https://user-images.githubusercontent.com/58819390/106208502-7ec62880-6191-11eb-8330-7d2d6c16b83f.png">
-<img width="301" src="https://user-images.githubusercontent.com/58819390/106208539-8d144480-6191-11eb-9b38-4c08eb659c53.png">
+<img width="301" src="https://user-images.githubusercontent.com/58819390/106210061-1f1d4c80-6194-11eb-8c1d-8e4fdf6d9dab.png">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
